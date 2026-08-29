@@ -1,0 +1,16 @@
+# 构建产物
+bin/
+obj/
+dist/
+
+# 发布用的单文件 exe 走 Release 附件，不进仓库
+*.exe
+
+# 编辑器
+.vs/
+.idea/
+*.user
+
+# 运行时（正常不会出现在仓库里，防手滑）
+runtime.json
+logs/
