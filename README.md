@@ -3,11 +3,23 @@
 屏幕边上的一条横幅，用余光就能看出 Claude Code 现在在干什么。
 
 *A always-on-top status strip for Claude Code on Windows. Chinese UI.*
-<img width="1920" height="64" alt="image" src="https://github.com/user-attachments/assets/a0367682-910e-4257-b92b-a6c028eb8a17" />
-<img width="1920" height="64" alt="image" src="https://github.com/user-attachments/assets/f1943d43-d785-4541-b648-ae799c3e7050" />
-<img width="1920" height="64" alt="image" src="https://github.com/user-attachments/assets/ba51fcfa-202c-47dd-9501-c8f2a7796ce6" />
-<img width="1920" height="64" alt="image" src="https://github.com/user-attachments/assets/9dbf460e-b86b-4ab5-959d-1e60bf527efd" />
-<img width="1920" height="64" alt="image" src="https://github.com/user-attachments/assets/d64b44f8-92a6-47d6-b9f2-0030e8bbec7c" />
+
+**思考中** · 青色，平缓正弦
+<img width="1920" height="64" alt="思考中：青色，平缓正弦波" src="https://github.com/user-attachments/assets/a0367682-910e-4257-b92b-a6c028eb8a17" />
+
+**执行命令** · 黄色，快速锯齿
+<img width="1920" height="64" alt="执行命令：黄色，快速锯齿波" src="https://github.com/user-attachments/assets/f1943d43-d785-4541-b648-ae799c3e7050" />
+
+**出错** · 红色，削顶失真，整条横幅压暗
+<img width="1920" height="64" alt="出错：红色，削顶失真波形" src="https://github.com/user-attachments/assets/ba51fcfa-202c-47dd-9501-c8f2a7796ce6" />
+
+**等你确认** · 橙色，慢速脉冲（呼吸）
+<img width="1920" height="64" alt="等你确认：橙色，慢速脉冲波" src="https://github.com/user-attachments/assets/9dbf460e-b86b-4ab5-959d-1e60bf527efd" />
+
+**空闲** · 灰色，近乎平直
+<img width="1920" height="64" alt="空闲：灰色，近乎平直" src="https://github.com/user-attachments/assets/d64b44f8-92a6-47d6-b9f2-0030e8bbec7c" />
+
+以上是演示模式的截图（横幅右键 → 演示），所以右边带着「演示」标记。左起是状态名和已经持续的时间，中间是它此刻在做的事，右边是示波器、额度和数据新鲜度。
 
 ---
 
